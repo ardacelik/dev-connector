@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://arda123:arda123@cluster0-cofgs.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "myscrettoken"
+  "jwtSecret": "myscrettoken",
+  "githubClientId": "f3064b06249adebd5e2a",
+  "githubSecret": "8a92fea6e94ba5b904a6c29108f17e611462ef69"
 }
