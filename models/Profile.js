@@ -90,7 +90,7 @@ const ProfileSchema = new mongoose.Schema({
   ],
   social: {
     youtube: {
-      type: Sting
+      type: String
     },
     twitter: {
       type: String
